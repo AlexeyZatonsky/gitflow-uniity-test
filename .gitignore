@@ -1,0 +1,62 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Бэкапы сцены
+*.bak
+
+# Сгенерированные файлы проекта IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Сборки
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Gradle
+.gradle/
+build/
+
+# Unity Cloud Build
+.projectid
+
+# Автоматически сгенерированные YAML-мета-файлы (не удалять, просто оставить)
+# Unity требует .
